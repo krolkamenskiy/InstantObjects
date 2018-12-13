@@ -424,5 +424,8 @@
   in most cases.
 }
 {$DEFINE IO_NO_CIRCULAR_REFERENCE_CHECK}
-
+{
+  Russian localization messages
+}
+{$DEFINE LANG_RU}
 
